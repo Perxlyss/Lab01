@@ -1,0 +1,6 @@
+age = input("How old are you?: ")
+num1 = input("Input a number: ")
+num2 = input("Input another number: ")
+sum = int(num1) + int(num2)
+print("You are " + age + " years old.")
+print("The sum of the two numbers entered is: ", sum )
